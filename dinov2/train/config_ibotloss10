@@ -1,0 +1,7 @@
+dino:
+  koleo_loss_weight: 0.01
+hash: # qss
+  loss_hash_reg: 0.01
+
+ibot:
+  loss_weight: 10  # qss
